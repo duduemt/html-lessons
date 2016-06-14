@@ -1,0 +1,11 @@
+{
+  "name": "dudu",
+  "version": "1.0.0",
+  "description": "# lesson1 - base structure of html files - header section, including other files CSS/JS, asssets - Body element  & tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
